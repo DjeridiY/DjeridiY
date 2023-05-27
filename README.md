@@ -1,15 +1,5 @@
 <h2 align="left">Hi 👋 ! An ocean of knowledge opens up to you: my profile...</h2>
 
-###
-
-<br clear="both">
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yanis&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-</div>
-
-###
-
 <img align="right" height="150" src="https://toutestquantique.fr/uptq/wp-content/themes/fox_tq/img/tq_logo.png"  />
 
 ###
