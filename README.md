@@ -13,6 +13,16 @@
 
 ###
 
+<h2 align="left">🚀 Featured: Kepler, an AI scientist that doesn't guess</h2>
+
+<a href="https://github.com/DjeridiY/Kepler"><img src="https://raw.githubusercontent.com/DjeridiY/Kepler/main/docs/cup.gif" width="480" alt="Kepler calls where the ball lands, seals the number, then the ball drops into the basket" /></a>
+
+Film a physics experiment with your phone: Kepler tracks it (SAM 3.1), writes its own laws of physics as code (Muse Spark), tests them on frames it never saw, and bets on the future. It called a ball's landing spot (39.8 cm) seven minutes before the throw.
+
+Built in 5 days for the Meta Global AI Developer Hackathon · [Code](https://github.com/DjeridiY/Kepler) · [2-min demo](https://www.youtube.com/watch?v=eiH3mqjKnnc)
+
+###
+
 <p align="left">
 - 🔭 I'm in a internship as a data scientist at Datatilt.
 - 📚 I'm in my 3rd year out of 5 studying at epitech
